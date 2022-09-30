@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "porfolio website",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd portfolio-backend && npm start & cd portfolio-front && npm start"
+  },
+  "author": "",
+  "license": "ISC"
+}
